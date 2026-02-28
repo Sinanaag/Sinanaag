@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Files
+        uses: platane/snk@v3
+        with:
+          github_user_name: sinanaag
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/github-action-push-to-git@v4
+        with:
+          branch: output
+          directory: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
