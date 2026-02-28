@@ -99,10 +99,11 @@
 
 ---
 
+
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sinanaag/Sinanaag/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sinanaag/sinanaag/output/snake.svg" alt="Snake animation" />
 </p>
 ---
 
