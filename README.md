@@ -35,15 +35,6 @@
 
 ## 🌐 Connect & Explore
 
-<div align="center">
-  
-<a href="https://anugrahk.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
-</a>
-<br />
-<a href="https://drive.google.com/file/d/1RTWkONqhnqWiKNxzQHt6lUkYDD06IOxI/view?usp=drivesdk" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20My%20CV-0078D4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume" />
-</a>
 
 ### Let's Connect:
 <a href="https://www.linkedin.com/in/sinanachipra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
